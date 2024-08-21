@@ -1,7 +1,7 @@
 name: capstone-project
 channels:
  - conda-forge
-dependencies
+dependencies:
  - python=3.12
  - voila
  - pandas
