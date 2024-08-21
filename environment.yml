@@ -1,0 +1,13 @@
+name: capstone-project
+channels:
+ - conda-forge
+dependencies
+ - python=3.12
+ - voila
+ - pandas
+ - numpy
+ - matplotlib
+ - seaborn
+ - ipywidgets
+ - scikit-learn
+ - IPython
